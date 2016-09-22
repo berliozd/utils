@@ -45,3 +45,10 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+/.idea/modules.xml
+/.idea/magicento/
+/.idea/magicento.xml
+/.idea/vcs.xml
+/.idea/utils.iml
+/.idea/workspace.xml
+/.idea/copyright/
