@@ -52,3 +52,4 @@ fabric.properties
 /.idea/utils.iml
 /.idea/workspace.xml
 /.idea/copyright/
+Supprimerait .idea/
